@@ -1,0 +1,1 @@
+# flexcoin is a coin
